@@ -22,6 +22,8 @@ sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorI
 sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
 java.lang.reflect.Constructor.newInstance(Constructor.java:423)
 com.mysql.jdbc.Util.handleNewInstance(Util.java:404)
+23
+
 com.mysql.jdbc.ConnectionImpl.getInstance(ConnectionImpl.java:400)
 com.mysql.jdbc.NonRegisteringDriver.connect(NonRegisteringDriver.java:327)
 java.sql.DriverManager.getConnection(DriverManager.java:664)
