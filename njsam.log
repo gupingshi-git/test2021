@@ -1,4 +1,5 @@
-﻿2019-07-21 19:26:17,819  INFO (nj.comm.NjCipher:27) - 【文字列を暗号化】
+﻿99999
+2019-07-21 19:26:17,819  INFO (nj.comm.NjCipher:27) - 【文字列を暗号化】
 2019-07-21 19:26:52,414  INFO (nj.action.inter.InterFirst:26) - Web server is started!
 2019-07-21 19:26:52,420  INFO (nj.comm.Property:41) - プロパティーファイル名[プロジェクト名.properties]の取得：
 2019-07-21 19:26:52,421  INFO (nj.comm.Property:44) - [path] = /D:/apache-tomcat-7.0.93/webapps/njsam/WEB-INF/classes/
